@@ -1,0 +1,26 @@
+circle
+270 250 0 200
+circle
+230 250 0 200
+circle
+250 270 0 200
+circle
+250 230 0 200
+circle
+270 270 0 200
+circle
+230 230 0 200
+circle
+230 270 0 200
+circle
+270 230 0 200
+bezier
+200 130 150 50 300 130 300 130
+hermite
+150 300 220 300 -100 -100 100 150
+hermite
+300 300 370 300 -100 -100 100 150
+
+display
+save
+img.png
